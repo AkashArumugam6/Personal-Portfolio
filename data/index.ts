@@ -154,7 +154,7 @@ export const workExperience = [
     date: "February 2025 – May 2025",
     desc: "Developed a full-stack AI-powered digital thread platform using the MERN stack, implementing a RAG-based chat interface with LangChain, Pinecone, and OpenAI. Built interactive D3.js visualizations and deployed on AWS EC2 with PM2 for high availability and performance.",
     className: "md:col-span-2",
-    thumbnail: "/facicon.ico",
+    thumbnail: "/facicon.png",
   },
   {
     id: 2,
