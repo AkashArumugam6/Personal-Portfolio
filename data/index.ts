@@ -160,7 +160,7 @@ export const workExperience = [
     id: 2,
     title: "Master of Science in Software Engineering Systems",
     company_name: "Northeastern University – Boston, MA",
-    date: "Expected May 2025",
+    date: "Expected Dec 2025",
     desc: "Courses: Network Structures and Cloud Computing, Enterprise Software Design, Web Design and User Experience Engineering, Object Oriented Design, Agile Software Development, Data Structures and Algorithms",
     className: "md:col-span-2",
     thumbnail: "/nu.png",
