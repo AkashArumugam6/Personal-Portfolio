@@ -143,76 +143,21 @@ export const projects = [
 
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
 
 export const workExperience = [
   
   {
     id: 1,
+    title: "Software Engineer Co-op",
+    company_name: "Threadwire LLC - North Andover, MA",
+    date: "February 2025 – May 2025",
+    desc: "Developed a full-stack AI-powered digital thread platform using the MERN stack, implementing a RAG-based chat interface with LangChain, Pinecone, and OpenAI. Built interactive D3.js visualizations and deployed on AWS EC2 with PM2 for high availability and performance.",
+    className: "md:col-span-2",
+    thumbnail: "/facicon.ico",
+  },
+  {
+    id: 2,
     title: "Master of Science in Software Engineering Systems",
     company_name: "Northeastern University – Boston, MA",
     date: "Expected May 2025",
@@ -221,7 +166,7 @@ export const workExperience = [
     thumbnail: "/nu.png",
   },
   {
-    id: 2,
+    id: 3,
     title: "Senior Security Engineer",
     company_name: "LTIMindtree – Chennai, India",
     date: "August 2021 – August 2023",
@@ -230,7 +175,7 @@ export const workExperience = [
     thumbnail: "/lti.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Bachelor of Engineering in Electrical and Electronics",
     company_name: "Anna University – Chennai, India",
     date: "August 2017 – May 2021",
