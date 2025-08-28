@@ -107,8 +107,17 @@ export const technologies = [
 ];
 
 export const projects = [
+  
   {
-    id: 4,
+    id: 1,
+    title: "CyberSage",
+    des: "AI-powered vulnerability intelligence platform that scans GitHub repositories, integrates real-time CVE data, and provides AI-driven remediation recommendations with a modern React UI.",
+    img: "/cybersage.png",
+    iconLists: ["/node.png", "/re.png", "/tail.svg", "/gemini.png"],
+    link: "https://github.com/AkashArumugam6/CyberSage",
+  },
+  {
+    id: 2,
     title: "Chat.pdf",
     des: "Developed a Retrieval-Augmented Generation (RAG)-based chatbot with a React and Tailwind CSS interface, enabling PDF uploads, semantic query resolution using OpenAI embeddings, and efficient document retrieval via Pinecone.",
     img: "/pro4.png",
@@ -116,7 +125,7 @@ export const projects = [
     link: "https://github.com/AkashArumugam6/Chat.pdf",
   },
   {
-    id: 1,
+    id: 3,
     title: "Cloud-Native Web Application",
     des: "A scalable and high-performance web app leveraging cloud infrastructure for auto-scaling, load balancing, and secure, reliable user experiences.",
     img: "/p32.jpg",
@@ -124,21 +133,14 @@ export const projects = [
     link: "https://github.com/orgs/CSYE6225-Fall2024-Akash/repositories",
   },
   {
-    id: 2,
+    id: 4,
     title: "Health360",
     des: "Track, manage, and optimize your health with Health360, a personalized wellness platform that provides real-time insights and recommendations.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/node.png", "/ts.svg", "/mongo.png"],
     link: "https://github.com/AkashArumugam6/Health360",
   },
-  {
-    id: 3,
-    title: "EquipShare",
-    des: "Simplify IT hardware sharing at universities with EquipShare, a platform that connects students to borrow and lend tech efficiently.",
-    img: "/p2.jpeg",
-    iconLists: ["/spring.png", "/hi.png", "/tl.png", "/css.png", "/mysql.png"],
-    link: "https://github.com/AkashArumugam6/EquipShare",
-  },
+  
 
 
 ];
@@ -146,7 +148,7 @@ export const projects = [
 
 
 export const workExperience = [
-  
+
   {
     id: 1,
     title: "Software Engineer Co-op",
