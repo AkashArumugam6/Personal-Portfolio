@@ -8,6 +8,7 @@ export const navItems = [
   { name: "Contact", link: "#contact" },
 ];
 
+
 export const gridItems = [
   {
     id: 1,
@@ -156,13 +157,13 @@ export const workExperience = [
     date: "February 2025 – May 2025",
     desc: "Developed a full-stack AI-powered digital thread platform using the MERN stack, implementing a RAG-based chat interface with LangChain, Pinecone, and OpenAI. Built interactive D3.js visualizations and deployed on AWS EC2 with PM2 for high availability and performance.",
     className: "md:col-span-2",
-    thumbnail: "/facicon.ico",
+    thumbnail: "/favicon.png",
   },
   {
     id: 2,
     title: "Master of Science in Software Engineering Systems",
     company_name: "Northeastern University – Boston, MA",
-    date: "Expected May 2025",
+    date: "Expected Dec 2025",
     desc: "Courses: Network Structures and Cloud Computing, Enterprise Software Design, Web Design and User Experience Engineering, Object Oriented Design, Agile Software Development, Data Structures and Algorithms",
     className: "md:col-span-2",
     thumbnail: "/nu.png",
